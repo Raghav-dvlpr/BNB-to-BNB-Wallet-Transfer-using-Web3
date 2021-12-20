@@ -1,0 +1,14 @@
+{
+  "name": "bnb2bnb",
+  "version": "1.0.0",
+  "description": "Binance to Binance wallet Transfer using Web3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raja Ragavan",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.1.9"
+  }
+}
